@@ -1,1 +1,1 @@
-# learn_rust_wgpu
+# Learn Rust WGPU
